@@ -16,5 +16,6 @@ mutating for object-oriented development.
 
 # Build Project
 
-$> swiftc *.swift
-$> ./main
+1) $> swiftc *.swift
+
+2) $> ./main
